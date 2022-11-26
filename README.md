@@ -31,11 +31,10 @@ src/sejinpark/주제명/문제명.py
 ## 일정표
 
 | **주차** | **주제명**       | 
-| -------- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
-| 11주차   | 2021_kakao_blind | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [메뉴리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | `진행 완료`   |
-| 12주차   | 2020_kakao_blind | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | `진행 완료`   |
-| 13주차   | 2019_kakao_blind | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | `진행 완료`   |
-| 14주차   | 2018_kakao_blind | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | `진행 완료`   |
+| 11주차   | 2021_kakao_blind | 
+| 12주차   | 2020_kakao_blind |
+| 13주차   | 2019_kakao_blind |
+| 14주차   | 2018_kakao_blind | 
 ## 참여자
 <table>
   <tr>
