@@ -46,7 +46,7 @@ src/sejinpark/주제명/문제명.py
    <td align="center"><a href="https://github.com/hojinida"><img src="https://avatars.githubusercontent.com/u/96263955?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hojin Jang</b></a><br><a href="https://solved.ac/opqrs1107"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=opqrs1107" /></sub></a><br /></td>
    <td align="center"><a href="https://github.com/sejineer"><img src="https://avatars.githubusercontent.com/u/95167215?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choeun Kim</b></a><br><a href="https://solved.ac/sskce7675"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sskce7675" /></sub></a><br /></td>
    <td align="center"><a href="https://github.com/choeun7"><img src="https://avatars.githubusercontent.com/u/95676587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choeum Sin</b></a><br><a href="https://solved.ac/ch01"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ch01" /></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/nevasca1125"><img src="https://avatars.githubusercontent.com/u/90556146?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dabin Cho</b></a><br><a href="https://solved.ac/"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" /></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/nevasca1125"><img src="https://avatars.githubusercontent.com/u/90556146?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dabin Cho</b></a><br><a href="https://solved.ac/luputis1125"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=luputis1125" /></sub></a><br /></td>
   </tr>
 </table>
 <br />
