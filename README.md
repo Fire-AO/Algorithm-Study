@@ -38,7 +38,7 @@ src/sejinpark/주제명/문제명.py
 | 2주차   | 다익스트라 | |
 | 3주차   | 브루트포스 | |
 | 4주차   | DP | |
-## 참여자
+## 
 <table>
   <tr>
    <td align="center"><a href="https://github.com/kjb512"><img src="https://avatars.githubusercontent.com/u/53505860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jinbeom Kim</b></a><br><a href="https://solved.ac/kjb512"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kjb512" /></sub></a><br /></td>
