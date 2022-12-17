@@ -4,9 +4,9 @@
 ## ✅ 규칙
 #### ⏰ 시간
 - 스터디 시간
-  - 화요일 9시
+  - 월요일 9시
 - 문제  제출 기한
-  - 일요일 9시
+  - 요일 9시
 #### 💻 스터디 방식
 - GitHub를 통한 코드 공유/ 피드백
   - 주석에 문제접근 방식, 풀이 자세히 적기
@@ -35,7 +35,7 @@ src/sejinpark/주제명/문제명.py
 
 | **주차** | **주제명**       | **발표자**  |
 | -------- | ------------------- | ---------- |
-| 1주차   | BFS/DFS | |
+| 1주차   | BFS/DFS | jinbeom kim |
 | 2주차   | 다익스트라 | |
 | 3주차   | 브루트포스 | |
 | 4주차   | DP | |
@@ -46,7 +46,7 @@ src/sejinpark/주제명/문제명.py
    <td align="center"><a href="https://github.com/sejineer"><img src="https://avatars.githubusercontent.com/u/95167215?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sejin Park</b></a><br><a href="https://solved.ac/qkrtpwls025"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrtpwls025" /></sub></a><br /></td>
    <td align="center"><a href="https://github.com/hojinida"><img src="https://avatars.githubusercontent.com/u/96263955?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hojin Jang</b></a><br><a href="https://solved.ac/opqrs1107"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=opqrs1107" /></sub></a><br /></td>
    <td align="center"><a href="https://github.com/ChoeunKim"><img src="https://avatars.githubusercontent.com/u/115697121?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choeun Kim</b></a><br><a href="https://solved.ac/sskce7675"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sskce7675" /></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/choeun7"><img src="https://avatars.githubusercontent.com/u/95676587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choeum Sin</b></a><br><a href="https://solved.ac/ch01"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ch01" /></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/choeun7"><img src="https://avatars.githubusercontent.com/u/95676587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choeun Sin</b></a><br><a href="https://solved.ac/ch01"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ch01" /></sub></a><br /></td>
    <td align="center"><a href="https://github.com/nevasca1125"><img src="https://avatars.githubusercontent.com/u/90556146?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dabin Cho</b></a><br><a href="https://solved.ac/luputis1125"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=luputis1125" /></sub></a><br /></td>
   </tr>
 </table>
