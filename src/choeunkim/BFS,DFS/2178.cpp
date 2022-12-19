@@ -33,10 +33,10 @@ void BFS(int x, int y) {
 		for (int dir = 0; dir < 4; dir++) {
 			int nx = cur.X + dx[dir];
 			int ny = cur.Y + dy[dir];
-			if ((0 <= nx && nx < N )&& (0 <= ny && ny < M)) { //범위 안에서
-				if (vis[nx][ny] == 0 && board[nx][ny] == 1) { //이동 가능 하지만 방문 처리 안되었을 때 방문으로 변경
-					vis[nx][ny] = 1;
-					result++;// 이러면 그냥 1인 곳을 다 도는 것... 아직 방법 안떠오름
+			if ((0 <= nx && nx < N) && (0 <= ny && ny < M)) { //범위 안에서
+				if (vis[nx][ny] == -1 && board[nx][ny] == 1) { //이동 가능 하지만 방문 처리 안되었을 때 방문으로 변경
+					vis[nx][ny] = vis[cur.X][cur.Y] + 1; // 거리로 저장하는 의미를 아직 잘 모르겠음
+					result++;// 이러면 그냥 1인 곳을 다 도는 것... 아직 방법 안떠오름, result 필요없음
 					Q.push(make_pair(nx, ny));
 				}
 			}
@@ -49,9 +49,10 @@ int main(void) {
 	for (int i = 0; i < N; i++) {
 		for (int j = 0; j < M; j++) {
 			scanf("%1d", &board[i][j]);
+			vis[i][j] = -1; //모든 길 -1로 고정
 		}
 	}
 	BFS(0, 0);
-	cout << result << endl;
+	cout << vis[N - 1][M - 1] << endl;
 	return 0;
 }
